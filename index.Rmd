@@ -32,4 +32,5 @@ We created a shiny-enabled dashboard based on the work in Problem 1 and added tw
 
 ####Github
 The GitHub repo containing the solution to problem1 and 2 is [here](https://github.com/yutianmm/p8105_hw6_ym2649)
+The GitHub repo containing the solution to the webpage is [here](https://github.com/ZhuyuQ/hw6_web)
 
