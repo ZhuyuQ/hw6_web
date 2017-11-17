@@ -21,6 +21,7 @@ This dashboard contains three plots made by using Plotly.
 - The third plot is a line plot, showing how many items are orderedof the order hour of the day for each department. We can find out most items were ordered during 10am to 3pm for almost every department, and least items were ordered during midnight. And the "produce" department shows the most obvious trend.
 
 #Problem 2
+The R markdown file for the shiny-enabled dashboard can be found in github [here](https://github.com/yutianmm/p8105_hw6_ym2649).
 
 We created a shiny-enabled dashboard based on the work in Problem 1 and added two widgets---one selectInput widget and one sliderInput widget. 
 
