@@ -5,5 +5,8 @@ navbar:
   right:
     - icon: fa-github fa-lg
       href: http://github.com/ZhuyuQ/hw6_web/
+    - text: dashboard
+      href: p1_dashboard.html
 output:
   html_document
+  
